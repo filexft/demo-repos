@@ -1,7 +1,11 @@
-#Demo
+# Demo
 
 some description!
 
-##subheader
+## subheader
 
 more text
+
+## local dev
+
+1. open index in your browser
